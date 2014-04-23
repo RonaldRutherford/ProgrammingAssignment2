@@ -1,3 +1,22 @@
+### I suppose this should have been in another file, but it was hard enough wrestling with reading in the files....
+
+The first thing to notice is that the use of hash. I think this is a great tool as it allows changes from one set of variables to another. I often have used factor() but hash is more direct and was trying it out.
+
+The biggest part of the script is reading in the files and combining them. For some reason, I had tooooo many problems with the files. Never even knew about the default sep="" as any white spaces. 
+And sometimes R gives shit back and I end up with as.vector or unlist and then as.vector...
+
+
+Have fun!!!
+Sincerely,
+Ron Rutherford
+PS: The rest of this stuff is for the other class. Should have created another directory, but hey, this was easier to push it!
+
+
+
+
+
+
+
 ### Introduction
 
 This second programming assignment will require you to write an R
